@@ -1,0 +1,8 @@
+# executable files
+udp_to_tcp
+
+# log files
+*.log
+
+# vscode folder
+.vscode/
